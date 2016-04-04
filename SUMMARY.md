@@ -8,7 +8,7 @@
    * [Authorized User Permission](part1/authorized_user_permission.md)
    * [Contact Information](part1/contact_information.md)
 * [Product Description](part2/product_descripiton.md)
-   * [Product Perspective](part2/README.md#feedback)
+   * [Product Perspective](part2/product_perspective.md)
    * [Product Functions](part2/README.md#tools)
    * [User Classes of the DA-Dash](part2/user_classes_of_the_da-dash.md)
 * [System Specifications](part3/systemspecificationsmd.md)
