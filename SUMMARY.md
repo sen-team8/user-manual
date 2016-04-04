@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Table of Contents](README.md)
 * [Introduction](part1/readme.md)
    * [Purpose](part1/README.md#writing)
    * [Document Overview](part1/README.md#gitbook)
