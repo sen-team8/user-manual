@@ -13,7 +13,7 @@
    * [User Classes of the DA-Dash](part2/user_classes_of_the_da-dash.md)
 * [System Specifications](part3/systemspecificationsmd.md)
    * [Operating Environment](operating_environment.md)
-   * [System Features](system_features.md)
+   * [System Features](part3/systemfeatures.md)
        * [For DA-Dash system administration](for_da-dash_system_administration.md)
        * For Users -Student
    * System Requirements
