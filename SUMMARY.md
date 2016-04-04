@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [User Manual](README.md)
 * [Introduction](part1/readme.md)
    * [Purpose](part1/purpose.md)
    * [Document Overview](part1/docover.md)
