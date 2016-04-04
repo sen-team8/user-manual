@@ -18,8 +18,8 @@
        * [For Users -Student](part3/for_users_-student.md)
    * [System Requirements](part3/system_requirements.md)
        * [Hardware Interface](part3/hardware_interface.md)
-       * [Software Interface](part3/software_interface.md)
-       * Communication Interface
+       * Software Interface
+       * [Communication Interface](part3/communication_interface.md)
    * Safety and Security Requirements
 * Getting Started
    * Requirements
