@@ -17,7 +17,7 @@
        * [For DA-Dash system administration](for_da-dash_system_administration.md)
        * [For Users -Student](part3/for_users_-student.md)
    * [System Requirements](part3/system_requirements.md)
-       * Hardware Interface
+       * [Hardware Interface](part3/hardware_interface.md)
        * Software Interface
        * Communication Interface
    * Safety and Security Requirements
