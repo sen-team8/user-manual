@@ -15,7 +15,6 @@
    * [Operating Environment](operating_environment.md)
    * [System Features](part3/systemfeatures.md)
    * [System Requirements](part3/system_requirements.md)
-       * [Hardware Interface](part3/hardware_interface.md)
        * [Software Interface](part3/software_interface.md)
        * [Communication Interface](part3/communication_interface.md)
    * [Safety and Security Requirements](part3/safety_and_security_requirements.md)
