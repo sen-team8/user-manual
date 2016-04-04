@@ -1,8 +1,7 @@
         
 # “DA-Dash” 
 
-
-# User Manual for DA-Dash
+# User Manual 
 
 
 
