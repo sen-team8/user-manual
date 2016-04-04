@@ -20,7 +20,7 @@
        * [Hardware Interface](part3/hardware_interface.md)
        * Software Interface
        * [Communication Interface](part3/communication_interface.md)
-   * Safety and Security Requirements
+   * [Safety and Security Requirements](part3/safety_and_security_requirements.md)
 * Getting Started
    * Requirements
    * Installation
