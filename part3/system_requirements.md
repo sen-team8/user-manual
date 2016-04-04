@@ -6,6 +6,16 @@
 
 * Software Interface
 
+| Software | For |
+| -- | -- |
+| Google Docs | Documentation |
+| GitHub  | Moms , Worklogs,Source code |
+| Slack | Team coordination |
+|  | Development |
+| Travesci | 1:6 |
+|  | Testing and implementation |
+
+
 * Communication Interface:
 
   Internet browsers on any computing device.
