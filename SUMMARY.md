@@ -11,7 +11,7 @@
    * [Product Perspective](part2/README.md#feedback)
    * [Product Functions](part2/README.md#tools)
    * [User Classes of the DA-Dash](part2/user_classes_of_the_da-dash.md)
-* [System Specifications](.part3/systemspecifications.md)
+* [System Specifications](part3/systemspecificationsmd.md)
    * [Operating Environment](operating_environment.md)
    * [System Features](system_features.md)
        * [For DA-Dash system administration](for_da-dash_system_administration.md)
