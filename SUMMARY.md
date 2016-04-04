@@ -25,5 +25,5 @@
    * [Requirements](part4/requirements.md)
    * [Installation](part4/installation.md)
    * [Using DA-Dash](part4/using_da-dash.md)
-* FAQs
+* [FAQs](part5/faqs.md)
 
