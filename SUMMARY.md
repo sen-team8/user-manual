@@ -24,6 +24,6 @@
 * [Getting Started](part4/getting_started.md)
    * [Requirements](part4/requirements.md)
    * [Installation](part4/installation.md)
-   * Using DA-Dash
+   * [Using DA-Dash](part4/using_da-dash.md)
 * FAQs
 
