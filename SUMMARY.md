@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * System Specifications
 * [Introduction](part1/readme.md)
    * [Purpose](part1/purpose.md)
    * [Document Overview](part1/docover.md)
