@@ -11,19 +11,19 @@
    * [Product Perspective](part2/README.md#feedback)
    * [Product Functions](part2/README.md#tools)
    * [User Classes of the DA-Dash](part2/user_classes_of_the_da-dash.md)
-* System Specifications
-    * Operating Environment
-    * System Features
-        * For DA-Dash system administration
-        * For Users -Student
-    * System Requirements
-        * Hardware Interface
-        * Software Interface
-        * Communication Interface
-    * Safety and Security Requirements
+* [System Specifications](system_specifications.md)
+   * Operating Environment
+   * System Features
+       * For DA-Dash system administration
+       * For Users -Student
+   * System Requirements
+       * Hardware Interface
+       * Software Interface
+       * Communication Interface
+   * Safety and Security Requirements
 * Getting Started
-    * Requirements
-    * Installation
-    * Using DA-Dash
+   * Requirements
+   * Installation
+   * Using DA-Dash
 * FAQs
 
