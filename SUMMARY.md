@@ -6,6 +6,7 @@
    * [Document Overview](part1/docover.md)
    * [Scope](part1/scope.md)
    * [Authorized User Permission](part1/authorized_user_permission.md)
+   * Contact Information
 * [Product Description](part2/README.md)
    * [Product Perspective](part2/README.md#feedback)
    * [Product Functions](part2/README.md#tools)
