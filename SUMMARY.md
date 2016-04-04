@@ -15,7 +15,7 @@
    * [Operating Environment](operating_environment.md)
    * [System Features](part3/systemfeatures.md)
        * [For DA-Dash system administration](for_da-dash_system_administration.md)
-       * For Users -Student
+       * [For Users -Student](part3/for_users_-student.md)
    * System Requirements
        * Hardware Interface
        * Software Interface
