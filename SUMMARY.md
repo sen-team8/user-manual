@@ -10,4 +10,5 @@
 * [Product Description](part2/product_descripiton.md)
    * [Product Perspective](part2/README.md#feedback)
    * [Product Functions](part2/README.md#tools)
+   * User Classes of the DA-Dash
 
