@@ -20,7 +20,7 @@
    * [Requirements](part4/requirements.md)
    * [Installation](part4/installation.md)
    * [Using DA-Dash](part4/using_da-dash.md)
-       * Widgets
+       * [Widgets](part4/widgets.md)
            * [Intranet](part4/intranet.md)
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
