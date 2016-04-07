@@ -24,7 +24,7 @@
            * [Intranet](part4/intranet.md)
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
-           * Chatroom
+           * [Chatroom](part4/chatroom.md)
            * Class Notes
 * [FAQs](part5/faqs.md)
 
