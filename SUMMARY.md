@@ -25,6 +25,6 @@
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
            * [Chatroom](part4/chatroom.md)
-           * Class Notes
+           * [Class Notes](part4/class_notes.md)
 * [FAQs](part5/faqs.md)
 
