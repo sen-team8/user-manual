@@ -1,17 +1,17 @@
-<br/><br/>
-
-
+<br/>
 
 ---
 
 # “DA-Dash”
 # User Manual 
---------------------------
+---
 <br/><br/>                                                                                                                                                         
-                                                                                                             
+                                                                
+###  IT314 Software Engineering
+
+                                  
 ### Team : 8
 
-### IT-314 Software Engineering
 
 
 
