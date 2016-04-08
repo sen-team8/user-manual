@@ -1,9 +1,7 @@
-
-
 ---
-
 # “DA-Dash”
-# User Manual 
+
+# User Manual
 ---
 <br/><br/>                                                                                                                                                         
                                                                 
