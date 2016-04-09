@@ -22,8 +22,8 @@
    * [Using DA-Dash](part4/using_da-dash.md)
        * [Widgets](part4/widgets.md)
            * [Intranet](part4/intranet.md)
-             * Academic
-             * Lecture
+               * [Academic](part4/academic.md)
+               * Lecture
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
            * [Chatroom](part4/chatroom.md)
