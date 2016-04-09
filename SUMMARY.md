@@ -27,7 +27,7 @@
                * [Discussions](intranet/discussions.md)
                * [Search](intranet/search.md)
                * [Academic](intranet/academic.md)
-               * Lecture
+               * [Lecture](intranet/lecture.md)
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
            * [Chatroom](part4/chatroom.md)
