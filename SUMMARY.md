@@ -24,7 +24,7 @@
            * [Intranet](part4/intranet.md)
                * [Star](intranet/star.md)
                * [Trending](intranet/trending.md)
-               * Discussions
+               * [Discussions](intranet/discussions.md)
                * Search
                * Academic
                * Lecture
