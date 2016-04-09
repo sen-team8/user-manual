@@ -26,7 +26,7 @@
                * [Trending](intranet/trending.md)
                * [Discussions](intranet/discussions.md)
                * [Search](intranet/search.md)
-               * Academic
+               * [Academic](intranet/academic.md)
                * Lecture
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
