@@ -25,7 +25,7 @@
                * [Star](intranet/star.md)
                * [Trending](intranet/trending.md)
                * [Discussions](intranet/discussions.md)
-               * Search
+               * [Search](intranet/search.md)
                * Academic
                * Lecture
            * [Webmail](part4/webmail.md)
