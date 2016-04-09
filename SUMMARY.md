@@ -23,7 +23,7 @@
        * [Widgets](part4/widgets.md)
            * [Intranet](part4/intranet.md)
                * [Star](intranet/star.md)
-               * Trending
+               * [Trending](intranet/trending.md)
                * Discussions
                * Search
                * Academic
