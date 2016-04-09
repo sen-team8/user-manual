@@ -22,7 +22,7 @@ For accessing academic folder, go to Intranet< Academic. This will open the Acad
 ### Accessing folders in Academic
 Suppose you want to open any folder or file in Academic folder, go to Intranet  < Academic < "folder_name".
 
-###Navigating among Folders
+###Navigating Folders
 
 #### Home Button
 User can return to main page of Intranet from anywhere within intranet widget by clicking the Homebutton available on the top of the page.
