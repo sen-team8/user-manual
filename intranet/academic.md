@@ -28,7 +28,7 @@ Suppose you want to open any folder or file in Academic folder, go to Intranet  
 User can return to main page of Intranet from anywhere within intranet widget by clicking the Homebutton available on the top of the page.
 
 #### Returning back to previous folders
-Suppose you have opened Home< a< b< c folder and you want to go back to page a. You can click directly on a from Home< a< b< c.
+Suppose you have opened Home< a< b< c folder and you want to go back to page a. You can click directly on a from Home/a/b/c available on the top of the page.
 
 ## Search
 User is provided with Search bar for searching anywhere within the Intranet widget. <br/>
