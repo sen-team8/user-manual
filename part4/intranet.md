@@ -16,18 +16,19 @@ User has following features :
 * [Search](intranet/Search) to search anywhere in the intranet widget.
 * [Academic](intranet/Academic) and [Lecture](intranet/Lecture) folders to access all the folders of Da-iict's intranet.
 
-###Navigating Folders
+###Navigating Files and Folders
 
 #### Home Button
-User can return to main page of Intranet from anywhere within intranet widget by clicking the Homebutton available on the top of the page.
+User can click on Home Button to return to the main page of Intranet full screen view.
+![](homebutton.png)
 
-#### Returning back to previous folders
-Suppose you have opened Home< a< b< c folder and you want to go back to page a. You can click directly on a from Home/a/b/c available on the top of the page.
+#### Level System
+On clicking any of the folders/files , the path of the selected file/folder will be displayed on the top. <br/>The path displayed is a Level system of the form a/b/c meaning currently opened file is c which is placed in folder b with b placed in folder a.<br/>
 
-## Search
-User is provided with Search bar for searching anywhere within the Intranet widget. <br/>
-For searching anything in Intranet Widget:
-1. Click on Search bar.
-2. Type anything you want to search.
-3. Click on Search button.
-4. You will be directed to results page.
+For example, accessing IT-215 folder of Anish Mathuria in the Lecture folder of Intranet- Home< Lecture< Anish Mathuria< IT-215:
+![](anish4.png)
+##### Returning back to previous folders
+If the user is accessing folder/file c on the path a/b/c , he can return to folder/file a by simply clicking on a in the path.
+
+For example, to return to lecture folder while accesing folder IT-215 of Anish Mathuria. You can directly click on Lecture in the path.
+![](anish5.png)
