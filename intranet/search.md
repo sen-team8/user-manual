@@ -5,6 +5,5 @@ The scope of this search is limited to Intranet widget,i.e, the results of any s
 * For example, user wants to search folder of Professor Anish Mathuria which is placed in the Lecture Folder.
  *  User will write "anish" in the Search bar.
     ![](searchanish.png)
- * Now user will see all the results relevant to the word "anish".
-    cli![](reasultanish.png)
+ * All the results relevant to the word "anish" will be displayed.![](reasultanish.png)
  * Click on the "Anish Mathuria " folder to see the folders of Anish Mathuria.
