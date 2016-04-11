@@ -19,6 +19,9 @@
 
 For accessing academic folder, go to Intranet< Academic. This will open the Academic folder which consists of all the above mentioned folders including others.
 
+![](Acad.png)
+
+
 ### Accessing folders in Academic
 Suppose you want to open any folder or file in Academic folder, go to Intranet  < Academic < "folder_name".
 
