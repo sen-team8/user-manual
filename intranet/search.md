@@ -7,3 +7,4 @@ The scope of this search is limited to Intranet widget,i.e, the results of any s
     ![](searchanish.png)
     2.   Now user will see all the results relevant to the word "anish".
     ![](reasultanish.png)
+    
