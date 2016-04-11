@@ -8,19 +8,6 @@ The widget will appear on the dashboard. This widget has no full screen view. Us
 ![](todo.png)
 
 ### Adding Task to the List
-User can add any number of tasks in the list. <br/>
-For adding a task in the list , follow the steps as follows:<br/>
-1.Enter the task in the textbox.<br/><br/>
-
-![](todoadd.png)
-
-2.Click on the plus button placed on the right-top corner.<br/><br/> 
-![](todoadd2.png)
-
-This will add task to the list.
-<br/>
-![](todofinal.png)
-
 
 ### Deleting Task from the List
 ### Editing a Task in the List
