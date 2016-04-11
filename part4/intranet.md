@@ -11,6 +11,6 @@ Intranet widget provides user with full access to DA-IICT’s intranet. Users ca
 User has following features :
 * [Star](intranet/star.md) to mark files or folders as favorites.
 * [Trending](intranet/star.md) to see what are the most trending files and folders. 
-* [Discussions](intranet/Discussions.md)- to be a part of discussion of any new file or folder added.
-* [Search](intranet/Search)- to search anywhere in the intranet widget.
+* [Discussions](intranet/Discussions.md) to be a part of any discussion related to any file or folder in the Lecture or Academic folder.
+* [Search](intranet/Search) to search anywhere in the intranet widget.
 * [Academic](intranet/Academic) and [Lecture](intranet/Lecture) folders- to access all the folders of Da-iict's intranet.
