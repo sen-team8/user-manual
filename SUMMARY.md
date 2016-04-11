@@ -30,7 +30,7 @@
                * [Lecture](intranet/lecture.md)
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
-               * Adding a task to the List
+               * [Adding a task to the List](Todo/adding_a_task_to_the_list.md)
                * Deleting a task from the List
                * Editing task in the List
                * Viewing all the tasks in the List
