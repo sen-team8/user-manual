@@ -33,7 +33,7 @@
                * [Adding a task to the List](Todo/adding_a_task_to_the_list.md)
                * [Deleting a task from the List](Todo/deleting_a_task_from_the_list.md)
                * [Editing task in the List](Todo/editing_task_in_the_list.md)
-               * Viewing all the tasks in the List
+               * [Viewing all the tasks in the List](Todo/viewing_all_the_tasks_in_the_list.md)
                * Marking a task as completed
                * Viewing all the completed tasks
            * [Chatroom](part4/chatroom.md)
