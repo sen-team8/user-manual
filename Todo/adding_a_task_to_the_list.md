@@ -2,15 +2,15 @@
 
 User can add any number of tasks in the list. <br/>
 For adding a task in the list , follow the steps as follows:<br/>
-1.Enter the task in the textbox.<br/><br/>
+* Enter the task in the textbox.<br/><br/>
 ![](todoadd.png)
 
 
-2.Click on the plus button placed on the right-top corner.<br/><br/> 
+* Click on the plus button placed on the right-top corner.<br/><br/> 
 ![](todoadd2.png)
 
 
-This will add task to the list.
+* This will add task to the list.
 <br/>
 
 ![](todofinal.png)
