@@ -34,7 +34,7 @@
                * [Deleting a task from the List](Todo/deleting_a_task_from_the_list.md)
                * [Editing task in the List](Todo/editing_task_in_the_list.md)
                * [Viewing all the tasks in the List](Todo/viewing_all_the_tasks_in_the_list.md)
-               * Marking a task as completed
+               * [Marking a task as completed](Todo/marking_a_task_as_completed.md)
                * Viewing all the completed tasks
            * [Chatroom](part4/chatroom.md)
            * [Class Notes](part4/class_notes.md)
