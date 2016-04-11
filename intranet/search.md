@@ -7,3 +7,4 @@ The scope of this search is limited to Intranet widget,i.e, the results of any s
     ![](searchanish.png)
  * All the results relevant to the word "anish" will be displayed.![](reasultanish.png)
  * Click on the "Anish Mathuria " folder to see the folders of Anish Mathuria.
+ ![](anishfinal.png)
