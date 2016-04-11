@@ -32,7 +32,7 @@
            * [ToDo](part4/todo.md)
                * [Adding a task to the List](Todo/adding_a_task_to_the_list.md)
                * [Deleting a task from the List](Todo/deleting_a_task_from_the_list.md)
-               * Editing task in the List
+               * [Editing task in the List](Todo/editing_task_in_the_list.md)
                * Viewing all the tasks in the List
                * Marking a task as completed
                * Viewing all the completed tasks
