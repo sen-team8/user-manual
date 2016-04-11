@@ -30,12 +30,12 @@
                * [Lecture](intranet/lecture.md)
            * [Webmail](part4/webmail.md)
            * [ToDo](part4/todo.md)
-             * Adding a task to the List
-             * Deleting a task from the List
-             * Editing task in the List
-             * Viewing all the tasks in the List
-             * Marking a task in the list as completed
-             * Viewing all the completed tasks
+               * Adding a task to the List
+               * Deleting a task from the List
+               * Editing task in the List
+               * Viewing all the tasks in the List
+               * Marking a task as completed
+               * Viewing all the completed tasks
            * [Chatroom](part4/chatroom.md)
            * [Class Notes](part4/class_notes.md)
 * [FAQs](part5/faqs.md)
