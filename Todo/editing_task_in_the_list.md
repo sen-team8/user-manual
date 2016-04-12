@@ -1,5 +1,9 @@
 # Editing task in the List
 
+
+---
+
+
 Todo widget provides its users with a feature of editing an already defined task in the list.
 <br/>
 <br/>
