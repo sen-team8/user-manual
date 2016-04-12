@@ -1,5 +1,10 @@
 # Adding a task to the List
 
+
+---
+
+
+
 User can add any number of tasks in the list. <br/>
 For adding a task in the list , follow the steps as follows:<br/>
 * Enter the task in the textbox.<br/><br/>
