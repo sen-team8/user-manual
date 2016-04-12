@@ -14,6 +14,8 @@ User is provided with two viewing options-
 
 
 For viewing the complete list , click on the "All" button.
+<br/>
+<br/>
  ![](view1.png)
 <br/>
 <br/>
@@ -23,4 +25,6 @@ For viewing the complete list , click on the "All" button.
 
 
 For viewing the list of all completed tasks, click on "Completed button".
+<br/>
+<br/>
   ![](view2.png)
