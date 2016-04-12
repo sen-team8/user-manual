@@ -1,4 +1,9 @@
 # Academic
+
+
+---
+
+
   Academic folder allows access to all announcements and information related to :
   * Academic Calendar
   * Academic Requirements 
