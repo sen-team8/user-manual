@@ -17,8 +17,8 @@ The features and interfaces are different for different user categories:
   **Search-** Provide user with  a result page for the search entered by the user. The search may be universal or widget limited.<br/><br/>
   **Add Widgets to Widget Catalog-** Add new widgets to the existing list of widgets for better fulillment of user requirements.<br/><br/>
         
-*   **For Users -Student**<br/><br/>
-     **Login** Login using valid webmail and password.<br/><br/>
-     **Manage Profile** Manage the personal information and profile picture to keep certain information public while others private.<br/><br/>
-      **Choose widgets** Add widgets to the personalized dashboard.<br/><br/>
-      **Search** Search for anything limited to the scope of DA-Dash. Search may be universal or limited to a specific widget.<br/><br/>
+*   **For Users - Student**<br/><br/>
+     **Login-** Login using valid webmail and password.<br/><br/>
+     **Manage Profile-** Manage the personal information and profile picture to update and edit as and when required.<br/><br/>
+      **Choose widgets-** Add widgets to the personalized dashboard.<br/><br/>
+      **Search-** Search for anything limited to the scope of DA-Dash. Search may be universal or limited to a specific widget.<br/><br/>
