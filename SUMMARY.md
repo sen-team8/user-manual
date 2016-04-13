@@ -41,7 +41,7 @@
        * [SideBar](Sidebar/sidebar.md)
            * [Dashboard](Sidebar/dashboard.md)
            * [Profile](Sidebar/profile.md)
-           * Choose Widgets
+           * [Choose Widgets](Sidebar/choose_widgets.md)
            * Settings
            * Help
            * Report a Bug
