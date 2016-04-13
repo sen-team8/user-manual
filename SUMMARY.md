@@ -18,8 +18,9 @@
    * [Safety and Security Requirements](part3/safety_and_security_requirements.md)
 * [Getting Started](part4/getting_started.md)
    * [Requirements](part4/requirements.md)
-   * [Installation](part4/installation.md)
    * [Using DA-Dash](part4/using_da-dash.md)
+       * Login
+       * Dashboard
        * [Widgets](part4/widgets.md)
            * [Intranet](part4/intranet.md)
                * [Star](intranet/star.md)
