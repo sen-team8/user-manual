@@ -19,7 +19,7 @@
 * [Getting Started](part4/getting_started.md)
    * [Requirements](part4/requirements.md)
    * [Using DA-Dash](part4/using_da-dash.md)
-       * Login
+       * [Login](Login/login.md)
        * Dashboard
        * [Widgets](part4/widgets.md)
            * [Intranet](part4/intranet.md)
