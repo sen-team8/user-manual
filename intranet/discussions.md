@@ -10,4 +10,4 @@ For holding discussions, go to the folder in which user wants to hold discussion
 (screenshot)
 <br/>
 <br/>
-Write any message and it will be visible to others.
+Write any message and it will be visible to others.(screenshot)
