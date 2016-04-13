@@ -42,7 +42,7 @@
            * [Dashboard](Sidebar/dashboard.md)
            * [Profile](Sidebar/profile.md)
            * [Choose Widgets](Sidebar/choose_widgets.md)
-           * Settings
+           * [Settings](Sidebar/settings.md)
            * Help
            * Report a Bug
            * Logout
