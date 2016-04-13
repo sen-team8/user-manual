@@ -38,5 +38,14 @@
                * [Viewing Options](Todo/viewing_options.md)
            * [Chatroom](part4/chatroom.md) 
            * [Class Notes](part4/class_notes.md)
+       * SideBar
+         * Dashboard
+         * Profile
+         * Choose Widgets
+         * Settings
+         * Help
+         * Report a Bug
+         * Logout
+       * Logout
 * [FAQs](part5/faqs.md)
 
