@@ -20,7 +20,7 @@
    * [Requirements](part4/requirements.md)
    * [Using DA-Dash](part4/using_da-dash.md)
        * [Login](Login/login.md)
-       * Dashboard
+       * [Dashboard](Dashboard/dashboard.md)
        * [Widgets](part4/widgets.md)
            * [Intranet](part4/intranet.md)
                * [Star](intranet/star.md)
