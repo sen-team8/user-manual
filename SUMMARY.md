@@ -36,16 +36,16 @@
                * [Editing task in the List](Todo/editing_task_in_the_list.md)
                * [Marking a task as completed](Todo/marking_a_task_as_completed.md)
                * [Viewing Options](Todo/viewing_options.md)
-           * [Chatroom](part4/chatroom.md) 
+           * [Chatroom](part4/chatroom.md)
            * [Class Notes](part4/class_notes.md)
        * SideBar
-         * Dashboard
-         * Profile
-         * Choose Widgets
-         * Settings
-         * Help
-         * Report a Bug
-         * Logout
-       * Logout
+           * Dashboard
+           * Profile
+           * Choose Widgets
+           * Settings
+           * Help
+           * Report a Bug
+           * Logout
+       * [Logout](Logout/logout.md)
 * [FAQs](part5/faqs.md)
 
