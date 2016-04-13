@@ -42,7 +42,6 @@
            * [Dashboard](Sidebar/dashboard.md)
            * [Profile](Sidebar/profile.md)
            * [Choose Widgets](Sidebar/choose_widgets.md)
-           * [Settings](Sidebar/settings.md)
            * [Help](Sidebar/help.md)
            * [Report a Bug](Sidebar/report_a_bug.md)
            * [Logout](Sidebar/logout.md)
