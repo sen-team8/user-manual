@@ -38,7 +38,7 @@
                * [Viewing Options](Todo/viewing_options.md)
            * [Chatroom](part4/chatroom.md)
            * [Class Notes](part4/class_notes.md)
-       * SideBar
+       * [SideBar](Sidebar/sidebar.md)
            * Dashboard
            * Profile
            * Choose Widgets
