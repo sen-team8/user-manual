@@ -44,7 +44,7 @@
            * [Choose Widgets](Sidebar/choose_widgets.md)
            * [Settings](Sidebar/settings.md)
            * [Help](Sidebar/help.md)
-           * Report a Bug
+           * [Report a Bug](Sidebar/report_a_bug.md)
            * Logout
        * [Logout](Logout/logout.md)
 * [FAQs](part5/faqs.md)
