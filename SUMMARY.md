@@ -45,7 +45,7 @@
            * [Settings](Sidebar/settings.md)
            * [Help](Sidebar/help.md)
            * [Report a Bug](Sidebar/report_a_bug.md)
-           * Logout
+           * [Logout](Sidebar/logout.md)
        * [Logout](Logout/logout.md)
 * [FAQs](part5/faqs.md)
 
