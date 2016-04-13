@@ -1,5 +1,5 @@
 # Product Description
-This section provides user with complete information of :<br/>
+This section provides users with complete information of :<br/>
 **Product Perspective<br/>
 Product Functions<br/>
 User Classes of Product**
