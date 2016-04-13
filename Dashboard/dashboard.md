@@ -4,7 +4,7 @@ Dashboard provides its users with a list of options, features and functionalitie
 <br/>
 **Dashboard** - This is the home page of DA-Dash.<br/>
 ### After First Login
-For the first time user logins, he will be presented with a list of widgets from where he has to select the widgets he wants to see on his personalized dashboard.
+For the first time user logins, he is presented with a list of widgets from where he has to select the widgets he wants to see on his personalized dashboard.
 <br/>
 ### Further Logins
 For the second time user logins, he will only see the selected widgets. He can then add widgets from the widget catalog.
