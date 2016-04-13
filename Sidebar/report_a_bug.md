@@ -1,2 +1,2 @@
 # Report a Bug
-
+Many a times, certain faults and bugs in the application are encountered while using it. These bugs tend to decrease the overall accessibility of the application. The users might encounter any of such bug present. So, to remain connected with the users and taking user suggestions as an input for improving the application, DA-Dash provides its users with a Report a Bug option. Any valid user can report any kind of issue/problem faced while using DA-Dash-the issue might be related to using some widget, login and logout, database,etc. User should feel free in doing so, as this will help in improving user experience only.
