@@ -43,7 +43,7 @@
            * [Profile](Sidebar/profile.md)
            * [Choose Widgets](Sidebar/choose_widgets.md)
            * [Settings](Sidebar/settings.md)
-           * Help
+           * [Help](Sidebar/help.md)
            * Report a Bug
            * Logout
        * [Logout](Logout/logout.md)
