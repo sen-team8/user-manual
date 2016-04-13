@@ -7,10 +7,10 @@
 
 The features and interfaces will be different for different user categories:
 
-*** For DA-Dash system administration:**
+* **For DA-Dash system administration:**
     
-  * Login- For a valid webmail id and password, allow user to access his/her dashboard, DA-Dash.
-  * Widgets- Provide users with widgets for intranet, webmail, class notes, chat room and todo list which can be easily incorporated into dashboard.
+  * **Login**, for a valid webmail id and password, allow user to access his/her dashboard, DA-Dash.
+  * **Widgets** Provides users with widgets for intranet, webmail, class notes, chat room and todo list which can be easily incorporated into dashboard accoridng to user's choice.
   * Manage Profile- Allow user to view , edit and update any valid form of information on their dashboard and maintain public and private information.
   * Widget request- Allow user to add widgets to their dashboard on any request.
   * Widget Catalogue- Provide users with a list of widgets from where users can add widgets to their customized dashboard.
