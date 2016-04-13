@@ -40,7 +40,7 @@
            * [Class Notes](part4/class_notes.md)
        * [SideBar](Sidebar/sidebar.md)
            * [Dashboard](Sidebar/dashboard.md)
-           * Profile
+           * [Profile](Sidebar/profile.md)
            * Choose Widgets
            * Settings
            * Help
