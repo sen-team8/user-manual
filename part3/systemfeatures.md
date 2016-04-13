@@ -11,12 +11,12 @@ The features and interfaces will be different for different user categories:
     
   **Login** For a valid webmail id and password, allow user to access his/her dashboard, DA-Dash.<br/><br/>
   **Widgets** Provides users with widgets for intranet, webmail, class notes, chat room and todo list which can be easily incorporated into dashboard accoridng to user's choice.<br/><br/>
-  **Manage Profile** Allow user to view , edit and update any valid form of information on their dashboard and maintain public and private information.<br/>
+  **Manage Profile** Allow user to view , edit and update any valid form of information on their dashboard and maintain public and private information.<br/><br/>
   ** Widget request** Allow user to add widgets to their dashboard on any request.<br/><br/>
   **Widget Catalogue** Provide users with a list of widgets from where users can add widgets to their customized dashboard.<br/><br/>
   **Search** Provide user with  a result page for the search entered by the user. The search may be universal or widget limited.<br/><br/>
-  **Push Notification** Provide user with notifications immediately for any update in the information in any of the chosen widgets.<br/><br/>
-  **Add widgets to widget catalogue** Add new widgets to the existing list of widgets to provide to the users.<br/>
+  **Push Notification** Provide user with notifications immediately for any update in the information in any of the chosen widgets.<br/><br/><br/>
+  **Add widgets to widget catalogue** Add new widgets to the existing list of widgets to provide to the users.<br/><br/>
         
 *   **For Users -Student**<br/><br/>
      **Login** Login using valid webmail and password.<br/><br/>
