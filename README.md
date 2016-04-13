@@ -1,7 +1,7 @@
 ---
 # DA-Dash
 
-# User mssManual
+# User Manual
 ---
 <br/><br/>                                                                                                                                                         
                                                                 
