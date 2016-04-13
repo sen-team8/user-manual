@@ -39,7 +39,7 @@
            * [Chatroom](part4/chatroom.md)
            * [Class Notes](part4/class_notes.md)
        * [SideBar](Sidebar/sidebar.md)
-           * Dashboard
+           * [Dashboard](Sidebar/dashboard.md)
            * Profile
            * Choose Widgets
            * Settings
