@@ -1,4 +1,4 @@
-# Deleting a task from the List
+# Deleting a Task from the List
 
 
 ---
