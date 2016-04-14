@@ -4,7 +4,7 @@
 ---
 
 
-Once the user has completed a task, task can be deleted from the list as follows:<br/>
-* Click the delete button corresponding to the task whose deletion is needed.<br/><br/>
+Once the user has completed a task, he can delete the task from the list<br/>
+* Click the `Delete` button corresponding to the task that needs to be deleted.<br/><br/>
 ![](delete.png)
 <br/><br/>The above step will delete "task 3" from the list in the figure.
