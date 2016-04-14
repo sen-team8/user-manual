@@ -3,7 +3,7 @@
 
 
 ---
-Click on the hamburger on the right-top corner to view the SideBar.<br/>
+Click on the `Hamburger` on the right-top corner to view the SideBar.<br/>
 (screenshot)<br/>
 
 <br/>
