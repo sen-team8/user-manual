@@ -2,7 +2,7 @@
 
 **What is Dashboard?**
 
-   The Dashboard is the first screen when you log into the adminsitration area of your blog. The main idea of the dashboard is to give you a place where you can get an at-a-glance overview of what's happening on your blog.You can catch-up on news, view your draft posts, see who's linking to you or how popular your content's been, quickly put out a no-frills post, or check out and moderate your latest comments. It's like a bird's eye view of operations, from which you can swoop down into the particular details.
+   The Dashboard is the first screen when you log into the adminsitration area of your blog. The main idea of the dashboard is to give you a place where you can get an at-a-glance overview of what's happening on your blog.You can catch-up on news, view your draft posts, see who's linking to you or how popular your content's been, quickly put out a no-frills post, or check out your latest comments. 
 <br/><br/>
 **What is DA-Dash?**
 
