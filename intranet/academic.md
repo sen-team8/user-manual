@@ -27,8 +27,7 @@ For accessing academic folder, go to `Intranet< Academic`. This will open the Ac
 ![](Acad.png)
 
 
-### Accessing folders in Academic
-Suppose you want to open any folder or file in Academic folder, go to `Intranet  < Academic < "folder_name"`.
+
 
 
 
