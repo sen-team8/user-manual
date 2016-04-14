@@ -10,4 +10,4 @@ Once a task is complete, it can be marked as `Completed`. This will help the use
 User can mark a task complete by clicking on the `Tick` button of the corresponding task.
 
 
-By `Re-clicking the Tick` button , task can be again marked as in-completed.
+By `Re-clicking the Tick` button , task can be again marked as in-complete.
