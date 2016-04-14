@@ -5,9 +5,9 @@
 
 
 
-Once the user has completed a task, he can mark it as "Completed". This will help the user in differentiating "completed" tasks from "to be completed" tasks. <br/>
+Once a task is complete, it can be marked as `Completed`. This will help the user in differentiating "completed" tasks from "incomplete" tasks. <br/>
 <br/>
-User can mark a task complete by clicking on the "tick" button of the corresponding task.
+User can mark a task complete by clicking on the `Tick` button of the corresponding task.
 
 
-By re-clicking the "tick" button , task can be again marked as in-completed.
+By `Re-clicking the Tick` button , task can be again marked as in-completed.
