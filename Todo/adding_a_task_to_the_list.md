@@ -11,7 +11,7 @@ For adding a task in the list , follow the steps as follows:<br/>
 ![](todoadd.png)
 
 
-* Click on the plus button placed on the right-top corner.<br/><br/> 
+* Click on the `Plus` button placed on the right-top corner.<br/><br/> 
 ![](todoadd2.png)
 
 
