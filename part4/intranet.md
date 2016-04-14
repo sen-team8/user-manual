@@ -9,6 +9,7 @@ Intranet widget provides user with full access to DA-IICT’s intranet. Users ca
 
 ###Accessing Intranet Widget
  Click on the Intranet widget to get the full screen view for accessing it.
+ <br/>(screenshot)<br/>
 
 ### Intranet (Full Screen View)<br/><br/>
 
