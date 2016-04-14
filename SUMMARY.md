@@ -29,7 +29,7 @@
            * [Lecture](intranet/lecture.md)
        * [Webmail](part4/webmail.md)
            * [View Mails](webmail/view_mails.md)
-           * Star
+           * [Star](webmail/star.md)
            * Trending
        * [ToDo](part4/todo.md)
            * [Adding a task to the List](Todo/adding_a_task_to_the_list.md)
