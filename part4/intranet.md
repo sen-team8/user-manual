@@ -14,13 +14,12 @@ Intranet widget provides user with full access to DA-IICT’s intranet. Users ca
 ### Intranet (Full Screen View)<br/><br/>
 
 ![](intranet1.png)<br/>
-User has following features :
-* Home Button
-* [Star](intranet/star.md) to mark files or folders as favorites.
-* [Trending](intranet/star.md) to see what are the most trending files and folders. 
-* [Discussions](intranet/Discussions.md) to be a part of any discussion related to any file or folder in the Lecture or Academic folder.
-* [Search](intranet/Search) to search anywhere in the intranet widget.
-* [Academic](intranet/Academic) and [Lecture](intranet/Lecture) folders to access all the folders of Da-iict's intranet.
+ **Home Button**<br/>
+ **Star** to mark files or folders as favorites.<br/>
+ **Trending** to see what are the most trending files and folders. <br/>
+ **Discussions** to be a part of any discussion related to any file or folder in the Lecture or Academic folder.<br/>
+**Search** to search anywhere in the intranet widget.<br/>
+ **Academic** and **Lecture** folders to access all the folders of Da-iict's intranet.<br/>
 
 ###Navigating Files and Folders
 
