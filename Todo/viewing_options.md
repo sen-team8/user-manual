@@ -4,27 +4,23 @@
 ---
 
 
-User is provided with two viewing options-
+User has two viewing options-
 1. Viewing the complete list of all tasks,
 2. Viewing the list of only completed tasks.<br/>
 <br/>
 
 
----
-
-
-For viewing the complete list , click on the "All" button.
+###Viewing the List of all Tasks
+For viewing the complete list , click on the `All` button.
 <br/>
 <br/>
  ![](view1.png)
 <br/>
 
 
+###Viewing the List of Completed Tasks
 
----
-
-
-For viewing the list of all completed tasks, click on "Completed button".
+For viewing the list of all completed tasks, click on the `Completed` button.
 <br/>
 
   ![](view2.png)
