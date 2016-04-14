@@ -4,7 +4,7 @@
 ---
 
 
-Todo widget provides its users with a feature of editing an already defined task in the list.
+Todo widget provides its users with a feature of editing an already saved task in the list.
 <br/>
 <br/>
 * `Double click` the task user wants to edit.<br/>
