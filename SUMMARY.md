@@ -28,6 +28,9 @@
            * [Academic](intranet/academic.md)
            * [Lecture](intranet/lecture.md)
        * [Webmail](part4/webmail.md)
+           * View Mails
+           * Star
+           * Trending
        * [ToDo](part4/todo.md)
            * [Adding a task to the List](Todo/adding_a_task_to_the_list.md)
            * [Deleting a task from the List](Todo/deleting_a_task_from_the_list.md)
