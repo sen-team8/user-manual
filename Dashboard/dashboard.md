@@ -1,5 +1,10 @@
 # Dashboard
 
+
+---
+
+
+
 Dashboard is the home page of DA-Dash. It provides its users with a list of options, features and functionalities.<br/>
 
 #### After First Login
