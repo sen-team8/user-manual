@@ -9,6 +9,6 @@ The Lecture folder provides lectures and other course related information of all
 
 ###Accessing Lecture Folder
 
-On the full screen view of Intranet, user can directly click on Lecture to access the folder.
+On the full screen view of Intranet, user can directly click on `Lecture` to access the folder.
 
 ![](Lecture.png)
