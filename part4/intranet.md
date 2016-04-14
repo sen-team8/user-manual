@@ -31,7 +31,7 @@ User can click on Home Button to return to the main page of Intranet full screen
 #### Level System
 On clicking any of the folders/files , the path of the selected file/folder will be displayed on the top. <br/>The path displayed is a Level system of the form a/b/c meaning currently opened file is c which is placed in folder b with b placed in folder a.<br/>
 
-For example, accessing IT-215 folder of Anish Mathuria in the Lecture folder of Intranet- Home< Lecture< Anish Mathuria< IT-215:
+For example, accessing IT-215 folder of Anish Mathuria in the Lecture folder of Intranet- `Home< Lecture< Anish Mathuria< IT-215`:
 ![](anish4.png)
 ##### Returning back to previous folders
 If the user is accessing folder/file c on the path a/b/c , he can return to folder/file a by simply clicking on a in the path.
