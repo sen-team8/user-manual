@@ -28,7 +28,7 @@
            * [Academic](intranet/academic.md)
            * [Lecture](intranet/lecture.md)
        * [Webmail](part4/webmail.md)
-           * View Mails
+           * [View Mails](webmail/view_mails.md)
            * Star
            * Trending
        * [ToDo](part4/todo.md)
