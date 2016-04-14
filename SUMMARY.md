@@ -30,7 +30,7 @@
        * [Webmail](part4/webmail.md)
            * [View Mails](webmail/view_mails.md)
            * [Star](webmail/star.md)
-           * Trending
+           * [Trending](webmail/trending.md)
        * [ToDo](part4/todo.md)
            * [Adding a task to the List](Todo/adding_a_task_to_the_list.md)
            * [Deleting a task from the List](Todo/deleting_a_task_from_the_list.md)
