@@ -4,10 +4,7 @@
 ---
 
 
-User has two viewing options-
-1. Viewing the complete list of all tasks,
-2. Viewing the list of only completed tasks.<br/>
-<br/>
+User has two viewing options.
 
 
 ###Viewing the List of all Tasks
