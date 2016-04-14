@@ -4,4 +4,4 @@
 
 ---
 
-This helps user in changing their name visible to other users of the Dashboard.
+This helps user in changing their information visible to other users of the Dashboard.
