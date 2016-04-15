@@ -13,7 +13,7 @@ Intranet widget provides its users with full access to Da-iict’s intranet. Use
 ![](intranetwidget.png) 
 
 ### Intranet (Full Screen View)<br/><br/>
-![](intrfull.png)
+![](int1.png)
 <br/>
  **Home Button**<br/>
  **Star** to mark files or folders favorite.<br/>
@@ -26,8 +26,7 @@ Intranet widget provides its users with full access to Da-iict’s intranet. Use
 
 #### Home Button
 User can click on Home Button to return to the main page of Intranet full screen view.
-![](hbutton.png)
-
+![](hb.png)
 #### Level System
 On clicking any of the folders/files , the path of the selected file/folder are displayed on the top. <br/>The path displayed is a Level system of the form a/b/c meaning currently opened file is c which is placed in folder b with b placed in folder a.<br/>
 
