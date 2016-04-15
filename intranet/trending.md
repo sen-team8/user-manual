@@ -2,11 +2,8 @@
 
 
 ---
-Intranet widget provides its users a unique feature where he can view the most popular file or folder among his batchmates. This will be helpful in a way that all students will remain updated with the latest news and trends of any file, folder or announcement. 
-### Viewing the Most Popular Files/Folders
-User can click on the `Trending` button on the top of the full screen view of Intranet widget to view most popular files.
-<br/>
-Screenshot
+Intranet widget provides its users a unique feature where he can view if a popular file/folder is trending or not. Depending on the analytics, a folder/file is marked trending. The trending marked file/folder is the most visited one.
+
 
 
 
