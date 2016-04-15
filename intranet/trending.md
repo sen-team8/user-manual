@@ -6,4 +6,4 @@ Intranet widget provides its users a unique feature where he can view if a popul
 
 <br/>
 <br/>
-![](trending.png)
+![](tre2.png)
