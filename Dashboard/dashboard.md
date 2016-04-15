@@ -8,7 +8,9 @@
 Dashboard is the home page of DA-Dash. It provides its users with a wide variety of options, features and functionalities.<br/>
 
 #### After First Login
-For the first time user logins, he is presented with a list of widgets from where he has to select the widgets he wants to see on his personalized dashboard.
+For the first time user logins, he is provided with all the widgets- Intranet, Webmail, ToDo, Class Notes and Chatroom. He can access all the widgets. He can then go to widget catalog for managing, removing and adding widgets.
+<br/>
+![](dashboard.png)
 <br/>
 #### Further Logins
 For the second and onward logins, users' previous session will be resumed and user will see his previously selected widgets on the dashboard. He can then add more widgets from the widget catalog.
