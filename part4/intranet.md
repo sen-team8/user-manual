@@ -8,11 +8,12 @@
 Intranet widget provides its users with full access to Da-iict’s intranet. Users can access different folders and files available on the Intranet of Da-iict. Also, all the folders and files are direclty linked to intranet, so users will have the same files/folders as in the Intranet. It provides the feature of starring the favorite and most used folders. These folders then can be accessed directly from the Intranet widget.
 
 ###Accessing Intranet Widget
- Click on the Intranet widget to get the full screen view for accessing it.
- <br/>(screenshot)<br/>
+ Click on the `Intranet` widget to get the full screen view for accessing it.
+ <br/><br/>
+![](intranetwidget.png) 
 
 ### Intranet (Full Screen View)<br/><br/>
-
+![](intrfull.png)
 <br/>
  **Home Button**<br/>
  **Star** to mark files or folders favorite.<br/>
@@ -25,6 +26,7 @@ Intranet widget provides its users with full access to Da-iict’s intranet. Use
 
 #### Home Button
 User can click on Home Button to return to the main page of Intranet full screen view.
+![](hbutton.png)
 
 #### Level System
 On clicking any of the folders/files , the path of the selected file/folder are displayed on the top. <br/>The path displayed is a Level system of the form a/b/c meaning currently opened file is c which is placed in folder b with b placed in folder a.<br/>
