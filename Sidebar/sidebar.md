@@ -3,8 +3,10 @@
 
 
 ---
-Click on the `Hamburger` on the right-top corner to view the SideBar.<br/>
-(screenshot)<br/>
+Click on the `Hamburger` on the right-top corner to view the SideBar.<br/><br/>
+![](side.png)
+
+<br/>
 
 <br/>
 **Dashboard** for directing user to main page of DA-Dash from anywhere on the website.<br/><br/>
