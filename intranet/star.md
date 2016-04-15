@@ -10,5 +10,5 @@ On clicking the `Star` button in the folder that needs to be marked favorite , u
 ![](s1.png)
 ###Viewing and Accessing Favorite Folders.
 The favorite marked folders are visible on the Intranet widget on the Dashboard. User can click on the folder there to direclty open that folder in the full screen view of the Intranet widget.
-<br/>
+<br/><br/>
 ![](s2.png)
