@@ -37,7 +37,6 @@
            * [Marking a task as completed](Todo/marking_a_task_as_completed.md)
            * [Viewing Options](Todo/viewing_options.md)
        * [Chatroom](part4/chatroom.md)
-       * [Class Notes](part4/class_notes.md)
    * [SideBar](Sidebar/sidebar.md)
        * [Dashboard](Sidebar/dashboard.md)
        * [Profile](Sidebar/profile.md)
