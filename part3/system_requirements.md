@@ -18,7 +18,7 @@
 | GitHub  | Moms , Worklogs,Source code |
 | Git  | Versioning, branches , backup |
 |  | Development |
-| Travesci | 1:6 |
+| Travis | 1:6 |
 |  | Testing and implementation |
 
 ###Communication Interface
