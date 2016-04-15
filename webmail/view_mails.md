@@ -1,3 +1,3 @@
 # View Mails
 
-User can click on the mails to open the mails.
+User can click on the mail to open and read that mail.
