@@ -9,7 +9,6 @@ DA-Dash has following directory structure:<br/>
     * Webmail
     * ToDo
     * Chatroom
-    * Class Notes
   * **SideBar**<br/>
      * Dashboard
      * Profile
