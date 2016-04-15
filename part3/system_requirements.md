@@ -17,9 +17,9 @@
 | Google Docs | Documentation |
 | GitHub  | Moms , Worklogs,Source code |
 | Git  | Versioning, branches , backup |
-|  | Development |
-| Travis | 1:6 |
-|  | Testing and implementation |
+| React, Webpack, Babel | Development |
+| Travis | Build check and compatibility |
+| Mocha, Chai, Chai-Enzyme, Enzyme | Testing and implementation |
 
 ###Communication Interface
 
