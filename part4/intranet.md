@@ -5,7 +5,7 @@
 
 
 
-Intranet widget provides its users with full access to Da-iict’s intranet. Users can access different folders and files available on the Intranet of Da-iict. Also, all the folders and files are direclty linked to intranet, so users will have the same files/folders as in the Intranet. It provides the feature of starring the favorite and most used folders. These folders then can be accessed directly from the Intranet widget.
+Intranet widget provides its users with full access to DA-IICT’s Intranet. Users can access different folders and files available on the Intranet of DA-IICT. Also, all the folders and files are direclty linked to intranet, so users will have the same files/folders as in the Intranet. It provides the feature of starring the favorite and most used folders. These folders then can be accessed directly from the Intranet widget.
 
 ###Accessing Intranet Widget
  Click on the `Intranet` widget to get the full screen view for accessing it.
@@ -16,11 +16,10 @@ Intranet widget provides its users with full access to Da-iict’s intranet. Use
 ![](int1.png)
 <br/>
  **Home Button**<br/>
- **Star** to mark files or folders favorite.<br/>
- **Trending** to see the most trending files and folders. <br/>
+ **Star** to mark files/folders favorite.<br/>
  **Discussions** to be a part of any discussion related to files/folders in the Lecture and Academic folder.<br/>
-**Search** to search anywhere in the intranet widget.<br/>
- **Academic** and **Lecture** folders to access all the folders of Da-iict's Intranet.<br/>
+ **Search** to search anywhere in the intranet widget.<br/>
+ **Academic** and **Lecture** folders to access all the folders of DA-IICT's Intranet.<br/>
 
 ###Navigating Files and Folders
 
