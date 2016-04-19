@@ -22,7 +22,6 @@
    * [Widgets](part4/widgets.md)
        * [Intranet](part4/intranet.md)
            * [Star](intranet/star.md)
-           * [Trending](intranet/trending.md)
            * [Discussions](intranet/discussions.md)
            * [Search](intranet/search.md)
            * [Academic](intranet/academic.md)
