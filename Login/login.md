@@ -4,7 +4,7 @@
 ---
 
 
-Any user with valid webmail id and password can login. It is necessary for the user to be a student of Da-iict and has a valid working webmail id-password.<br/>
+Any user with valid Webmail ID and password can login. It is necessary for the user to be a student of DA-IICT and has a valid working Webmail ID-password.<br/>
 <br/>
 <br/>
 ![](login.png)
