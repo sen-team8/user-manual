@@ -13,7 +13,7 @@ No.
 <br/><br/>
 ** Can an external user add a widget?**
 
-No, any external person to the team cannot add widgets. But can definitly suggest/request for some widget as stated above.
+No, any external person to the team cannot add widgets.
 <br/><br/>
 ** What is React?**
 
