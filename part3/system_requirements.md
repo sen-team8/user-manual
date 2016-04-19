@@ -18,7 +18,7 @@
 | GitHub  | Moms , Worklogs,Source code |
 | Git  | Versioning, branches , backup |
 | React, Webpack, Babel | Development |
-| Travis | Build check and compatibility check|
+| Travisci | Build check and compatibility check|
 | Mocha, Chai, Chai-Enzyme, Enzyme | Testing and implementation |
 
 ###Communication Interface
