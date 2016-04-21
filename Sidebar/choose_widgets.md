@@ -5,11 +5,11 @@ In this page , user can mark required widgets and DA-Dash will provide the user 
 This page provides user with two functionalities.
 <br/>
 <br/>
-![](widcat.png)
+![](imageedit_20_9654171243.png)
 ### Choosing new Widgets
 The widgets with their checkbox marked are the already selected widgets. User can select new widget from the list and the widget will appear on the dashboard.
 ### Re-arranging Widgets on the Dashboard
 User can maintain the most used widgets on the top.
 Hold the mouse and drop the widget to its new position in the list, changes will get reflected on the dashboard.
 ### Removing Widget from the Dashboard
-From the list, `demark the checkbox` of the widget user wants to remove from the dashboard.
+From the list, `uncheck the checkbox` of the widget user wants to remove from the dashboard.
