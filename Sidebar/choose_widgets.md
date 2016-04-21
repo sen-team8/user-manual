@@ -8,7 +8,7 @@ This page provides user with two functionalities.
 ![](widcat.png)
 ### Choosing new Widgets
 The widgets with their checkbox marked are the already selected widgets. User can select new widget from the list and the widget will appear on the dashboard.
-### Re-arranging the widgets visibility on the Dashboard
+### Re-arranging Widgets on the Dashboard
 User can maintain the most used widgets on the top.
 Hold the mouse and drop the widget to its new position in the list, changes will get reflected on the dashboard.
 ### Removing Widget from the Dashboard
