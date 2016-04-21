@@ -13,7 +13,7 @@ Intranet widget provides its users with full access to DA-IICT’s Intranet. Use
 ![](intranetwidget.png) 
 
 ### Intranet (Full Screen View)<br/><br/>
-![](int1.png)
+![](imageedit_5_9437788385.jpg)
 <br/>
  **Home Button**<br/>
  **Star** to mark files/folders favorite.<br/>
